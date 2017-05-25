@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: bb31d42765cad5d45986649ea5ead1aa
+timeCreated: 1493426762
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flame
+    21300002: atlas_0249_1
+    21300004: atlas_0249_2
+    21300006: left_claw
+    21300008: head
+    21300010: body
+    21300012: atlas_0249_6
+    21300014: left_wing
+    21300016: atlas_0249_8
+    21300018: right_claw
+    21300020: atlas_0249_10
+    21300022: atlas_0249_11
+    21300024: left_hand_claw
+    21300026: atlas_0249_13
+    21300028: right_wing
+    21300030: wight_hand_claw
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flame
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1523
+        width: 350
+        height: 482
+      alignment: 9
+      pivot: {x: 0.48011327, y: 0.1823077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0249_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1524
+        width: 197
+        height: 319
+      alignment: 9
+      pivot: {x: 0.2526781, y: 0.7545583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0249_2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1607
+        width: 394
+        height: 379
+      alignment: 9
+      pivot: {x: 0.37633905, y: 0.23676777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left_claw
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1229
+        width: 400
+        height: 358
+      alignment: 9
+      pivot: {x: 0.2331865, y: 0.89532745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 543
+        height: 587
+      alignment: 9
+      pivot: {x: 0.33336174, y: 0.31028005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 570
+        height: 927
+      alignment: 9
+      pivot: {x: 0.59361875, y: 0.44744077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0249_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 583
+        height: 576
+      alignment: 9
+      pivot: {x: 0.24620105, y: 0.8563221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left_wing
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 581
+        width: 451
+        height: 646
+      alignment: 9
+      pivot: {x: 0.14503753, y: 0.82682776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0249_8
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1228
+        width: 304
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_claw
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 933
+        width: 311
+        height: 287
+      alignment: 9
+      pivot: {x: 0.27619448, y: 0.83952945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0249_10
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 907
+        width: 242
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0249_11
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 579
+        width: 493
+        height: 327
+      alignment: 9
+      pivot: {x: 0.24586967, y: 0.6986648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left_hand_claw
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 576
+        width: 372
+        height: 275
+      alignment: 9
+      pivot: {x: 0.16320899, y: 0.6771726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0249_13
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 322
+        width: 167
+        height: 212
+      alignment: 9
+      pivot: {x: 0.8429744, y: 0.13976921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_wing
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 529
+        height: 321
+      alignment: 9
+      pivot: {x: 0.09397429, y: 0.8469515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wight_hand_claw
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 0
+        width: 352
+        height: 313
+      alignment: 9
+      pivot: {x: 0.13640837, y: 0.8458499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

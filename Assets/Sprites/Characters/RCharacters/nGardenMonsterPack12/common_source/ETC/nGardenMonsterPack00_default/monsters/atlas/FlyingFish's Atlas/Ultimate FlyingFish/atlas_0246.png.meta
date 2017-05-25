@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 14835f93f12a77b459183953a91cdaa2
+timeCreated: 1493424220
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: right_fin
+    21300002: whisker1
+    21300004: body
+    21300006: head
+    21300008: left_fin
+    21300010: back_fin
+    21300012: bubbles
+    21300014: right_whisker
+    21300016: small_bubble
+    21300018: big_bubble
+    21300020: whisker3
+    21300022: whisker2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right_fin
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 117
+        height: 133
+      alignment: 9
+      pivot: {x: 0.21791252, y: 0.8656981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whisker1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 371
+        width: 65
+        height: 83
+      alignment: 9
+      pivot: {x: 0.13922542, y: 0.908106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 197
+        height: 269
+      alignment: 9
+      pivot: {x: 0.23547234, y: 0.91650826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 206
+        height: 147
+      alignment: 9
+      pivot: {x: 0.6939443, y: 0.19276403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left_fin
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 148
+        width: 91
+        height: 208
+      alignment: 9
+      pivot: {x: 0.79587394, y: 0.7380114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: back_fin
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 148
+        width: 109
+        height: 87
+      alignment: 9
+      pivot: {x: 0.12689798, y: 0.87395996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_bubble
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_bubble
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 110
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whisker3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 236
+        width: 113
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whisker2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 280
+        width: 131
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

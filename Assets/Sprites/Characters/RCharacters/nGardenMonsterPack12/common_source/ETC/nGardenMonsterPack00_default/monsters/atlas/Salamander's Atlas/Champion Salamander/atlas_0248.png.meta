@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: ca60beacf1315e241a630c5793429623
+timeCreated: 1493416591
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: right_arm
+    21300002: left_wing
+    21300004: right_leg
+    21300006: left_arm
+    21300008: left_flame
+    21300010: body
+    21300012: head
+    21300014: tail
+    21300016: left_leg
+    21300018: right_wing
+    21300020: right_flame
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right_arm
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 87
+        height: 131
+      alignment: 9
+      pivot: {x: 0.21048921, y: 0.86465126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left_wing
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 360
+        width: 62
+        height: 105
+      alignment: 9
+      pivot: {x: 0.7241376, y: 0.15258701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_leg
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 359
+        width: 94
+        height: 102
+      alignment: 9
+      pivot: {x: 0.2874868, y: 0.823571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left_arm
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 154
+        width: 109
+        height: 204
+      alignment: 9
+      pivot: {x: 0.71514124, y: 0.77248085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 159
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 175
+        height: 195
+      alignment: 9
+      pivot: {x: 0.23695873, y: 0.39755774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tail
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 165
+        height: 153
+      alignment: 9
+      pivot: {x: 0.8158301, y: 0.20481251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left_leg
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 108
+        height: 95
+      alignment: 9
+      pivot: {x: 0.7332173, y: 0.78341603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_wing
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 42
+        height: 108
+      alignment: 9
+      pivot: {x: 0.35524496, y: 0.16223742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left_flame
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 154
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_flame
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 154
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 5b1b695f8076c9248bfe5828c3a53cde
+timeCreated: 1491922473
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fastfood_assets_0
+    21300002: fastfood_assets_1
+    21300004: fastfood_assets_2
+    21300006: fastfood_assets_3
+    21300008: fastfood_assets_4
+    21300010: fastfood_assets_5
+    21300012: fastfood_assets_6
+    21300014: fastfood_assets_7
+    21300016: fastfood_assets_8
+    21300018: fastfood_assets_9
+    21300020: fastfood_assets_10
+    21300022: fastfood_assets_11
+    21300024: fastfood_assets_12
+    21300026: fastfood_assets_13
+    21300028: fastfood_assets_14
+    21300030: fastfood_assets_15
+    21300032: fastfood_assets_16
+    21300034: fastfood_assets_17
+    21300036: fastfood_assets_18
+    21300038: fastfood_assets_19
+    21300040: fastfood_assets_20
+    21300042: fastfood_assets_21
+    21300044: fastfood_assets_22
+    21300046: fastfood_assets_23
+    21300048: fastfood_assets_24
+    21300050: fastfood_assets_25
+    21300052: fastfood_assets_26
+    21300054: fastfood_assets_27
+    21300056: fastfood_assets_28
+    21300058: fastfood_assets_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fastfood_assets_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 654
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 656
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 682
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 654
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 662
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 556
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 536
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 530
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 530
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 556
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 404
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 412
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 430
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 412
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_14
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 402
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 278
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 304
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 276
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_18
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 284
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_19
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 302
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 158
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 146
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 146
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_23
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 170
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_24
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 148
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 46
+        width: 104
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 30
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 56
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fastfood_assets_29
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 42
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

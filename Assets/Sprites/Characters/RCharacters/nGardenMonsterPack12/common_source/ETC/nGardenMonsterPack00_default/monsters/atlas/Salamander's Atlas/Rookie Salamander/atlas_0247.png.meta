@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 1a0328fb64048b949a61b3105e8ff6e9
+timeCreated: 1490451482
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: c_rookie_salamander_head
+    21300002: r_rookie_salamander_hand
+    21300004: l_rookie_salamander_hand
+    21300006: r_rookie_salamander_leg
+    21300008: c_rookie_salamander_body
+    21300010: c_rookie_salamander_tail
+    21300012: l_rookie_salamander_leg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: c_rookie_salamander_head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 203
+        height: 200
+      alignment: 9
+      pivot: {x: 0.49554816, y: 0.041364316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: r_rookie_salamander_hand
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 128
+        width: 73
+        height: 101
+      alignment: 9
+      pivot: {x: 0.2214575, y: 0.12419733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: l_rookie_salamander_hand
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 129
+        width: 78
+        height: 88
+      alignment: 9
+      pivot: {x: 0.853376, y: 0.85943204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: r_rookie_salamander_leg
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 107
+        width: 76
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6308007, y: 0.10707977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: c_rookie_salamander_body
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 165
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: c_rookie_salamander_tail
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 54
+        height: 106
+      alignment: 9
+      pivot: {x: 0.26570356, y: 0.31669924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: l_rookie_salamander_leg
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 71
+        height: 77
+      alignment: 9
+      pivot: {x: 0.22633941, y: 0.11856143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

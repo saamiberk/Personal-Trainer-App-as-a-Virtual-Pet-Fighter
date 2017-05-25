@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 08ffd9f85fe0db74781856b5f418c6e5
+timeCreated: 1493397835
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlas_0251_0
+    21300002: atlas_0251_1
+    21300004: atlas_0251_2
+    21300006: atlas_0251_3
+    21300008: atlas_0251_4
+    21300010: atlas_0251_5
+    21300012: atlas_0251_6
+    21300014: atlas_0251_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas_0251_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.8792592, y: 0.7665063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0251_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 211
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0.18766886, y: 0.879259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0251_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 121
+        width: 66
+        height: 94
+      alignment: 9
+      pivot: {x: 0.13772264, y: 0.18529543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0251_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 245
+        height: 210
+      alignment: 9
+      pivot: {x: 0.89159286, y: 0.27966836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0251_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 121
+        width: 104
+        height: 85
+      alignment: 9
+      pivot: {x: 0.2280783, y: 0.9104923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0251_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 121
+        width: 54
+        height: 56
+      alignment: 9
+      pivot: {x: 0.87236387, y: 0.6354495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0251_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 165
+        height: 120
+      alignment: 9
+      pivot: {x: 0.58681846, y: 0.43731222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_0251_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 100
+        height: 92
+      alignment: 9
+      pivot: {x: 0.116985664, y: 0.72260857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
