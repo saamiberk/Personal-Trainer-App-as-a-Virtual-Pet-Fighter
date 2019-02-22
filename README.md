@@ -1,5 +1,5 @@
 # Personal Trainer App as a Virtual Pet Fighter
-# 2nd place Innovative ideas competition
+   (2nd place Innovative ideas competition)
 ![screenshot_1](https://cloud.githubusercontent.com/assets/24358394/26466430/7214adf0-4197-11e7-81c5-a9606a99677e.png)
 ![screenshot_2](https://cloud.githubusercontent.com/assets/24358394/26466431/723b89de-4197-11e7-8b7a-fe55a5ce11a5.png)
 ![screenshot_3](https://cloud.githubusercontent.com/assets/24358394/26466432/723fc63e-4197-11e7-8964-a3de4bb4a2f3.png)
